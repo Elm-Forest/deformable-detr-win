@@ -1,5 +1,5 @@
 # Deformable DTER for windows
-Deformable DTER for windows and includes a reasoning implementation of Deformable DTER\
+Deformable DTER for windows and includes a reasoning implementation of Deformable DTER
 
 ![deformable_detr](./figs/illustration.png)
 
